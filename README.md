@@ -90,8 +90,8 @@ likhitha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username='https://github.com/likhitha-kulal'&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user='https://github.com/likhitha-kulal'&theme=tokyonight" />
 
 </div>
 
